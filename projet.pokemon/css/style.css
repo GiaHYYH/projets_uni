@@ -1,0 +1,9 @@
+body {
+  background-image: url('../img/pokemon_bg.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#game-area {
+    background-color: rgba(255, 255, 255, 0.5);
+}

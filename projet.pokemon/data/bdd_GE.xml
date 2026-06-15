@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <set id="1">
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>1</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/b/bd/0682Spritzee_Dream.png/revision/latest?cb=20160226114216" alt="Spritzee"></image>
+            <contenu>Quel est le type de Spritzee?</contenu>
+            <reponse1>Vol</reponse1>
+            <reponse2>Feu</reponse2>
+            <reponse3>Fée</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>2</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/e/ef/Type_Ghost_HOME.png/revision/latest/scale-to-width-down/1000?cb=20220611140549"></image>
+            <contenu>De ces pokémons, lequel est de type Spectre?</contenu>
+            <reponse1>Espeon</reponse1>
+            <reponse2>Mismagius</reponse2>
+            <reponse3>Corviknight</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Objet</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>3</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/8/87/Pok%C3%A9_Ball.png/revision/latest?cb=20240922024755"></image>
+            <contenu>A quoi servent les Poké Balls?</contenu>
+            <reponse1>A capturer et stocker des Pokémons</reponse1>
+            <reponse2>A guérir des Pokémons</reponse2>
+            <reponse3>A attacker des énemis</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Lieu</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>4</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/7/77/Pok%C3%A9mon_Center_PE.png/revision/latest/scale-to-width-down/1000?cb=20251013003323"></image>
+            <contenu>Où sont soignés les Pokémons?</contenu>
+            <reponse1>Dans une arène</reponse1>
+            <reponse2>Dans un centre</reponse2>
+            <reponse3>Dans une pokéball</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>5</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/0/0b/0150Mewtwo_AG_anime.png/revision/latest?cb=20140213043104"></image>
+            <contenu>Comment s'appelle ce Pokémon?</contenu>
+            <reponse1>Gallade</reponse1>
+            <reponse2>Lunala</reponse2>
+            <reponse3>Mewtwo</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>General</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>6</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/5/5d/Pok%C3%A9mon_logo.svg/revision/latest?cb=20250920222310"></image>
+            <contenu>Quel Pokémon est la mascotte de la franchise Pokémon ?</contenu>
+            <reponse1>Bulbizarre</reponse1>
+            <reponse2>Pikachu</reponse2>
+            <reponse3>Salamèche</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>7</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/5/54/0007Squirtle.png/revision/latest/scale-to-width-down/1000?cb=20240714154016"></image>
+            <contenu>Quel est le type principal de Carapuce ?</contenu>
+            <reponse1>Eau</reponse1>
+            <reponse2>Feu</reponse2>
+            <reponse3>Plante</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>General</thematique>
+            <difficulte>Advanced</difficulte>
+            <id>8</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/9/95/Kanto_Pok%C3%A9mon.png/revision/latest/scale-to-width-down/1000?cb=20190718185033"></image>
+            <contenu>Combien de Pokémon de première génération existe-t-il ?</contenu>
+            <reponse1>250</reponse1>
+            <reponse2>100</reponse2>
+            <reponse3>151</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>5</point>
+        </question>
+        <question>
+            <thematique>Evolution</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>9</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/3/38/0006Charizard.png/revision/latest/scale-to-width-down/1000?cb=20240714093949"></image>
+            <contenu>Quel Pokémon évolue en Dracaufeu ?</contenu>
+            <reponse1>Salamèche</reponse1>
+            <reponse2>Reptincel</reponse2>
+            <reponse3>Dracolosse</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>10</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/4/47/Type_Fire_HOME.png/revision/latest/scale-to-width-down/1000?cb=20220611140500"></image>
+            <contenu>Quelle capacité est super efficace contre un Pokémon de type Feu ?</contenu>
+            <reponse1>Plante</reponse1>
+            <reponse2>Insecte</reponse2>
+            <reponse3>Eau</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>3</point>
+        </question>
+    </set>
+    <set id="2">
+        <question>
+            <thematique>Evolution</thematique>
+            <difficulte>Advanced</difficulte>
+            <id>11</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/4/4c/0133Eevee.png/revision/latest?cb=20250716011052"></image>
+            <contenu>Quelle est la double évolution de Évoli qui est de type Eau ?</contenu>
+            <reponse1>Pyroli</reponse1>
+            <reponse2>Voltali</reponse2>
+            <reponse3>Aquali</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>5</point>
+        </question>
+        <question>
+            <thematique>Objet</thematique>
+            <difficulte>Advanced</difficulte>
+            <id>12</id>
+            <image src="https://archives.bulbagarden.net/media/upload/a/a5/Dream_Thunder_Stone_Sprite.png"></image>
+            <contenu>Quel objet permet de faire évoluer Pikachu en Raichu ?</contenu>
+            <reponse1>Pierre Foudre</reponse1>
+            <reponse2>Pierre Lune</reponse2>
+            <reponse3>Pierre Feu</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>5</point>
+        </question>
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>13</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/3/3f/0143Snorlax.png/revision/latest?cb=20240715233246"></image>
+            <contenu>Quel Pokémon est connu pour dormir tout le temps ?</contenu>
+            <reponse1>Rondoudou</reponse1>
+            <reponse2>Ronflex</reponse2>
+            <reponse3>Psykokwak</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Lieu</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>14</id>
+            <image src="https://www.pokepedia.fr/images/5/56/Argenta_LGPE.png?20210521192836"></image>
+            <contenu>Quelle ville abrite la première arène dans les jeux Pokémon Rouge/Bleu ?</contenu>
+            <reponse1>Azuria</reponse1>
+            <reponse2>Jadielle</reponse2>
+            <reponse3>Argenta</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>15</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/f/f9/Type_Normal_HOME.png/revision/latest/scale-to-width-down/1000?cb=20220611141920"></image>
+            <contenu>Quel type est totalement inefficace contre les Pokémon Spectre ?</contenu>
+            <reponse1>Normal</reponse1>
+            <reponse2>Ténèbres</reponse2>
+            <reponse3>Sol</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Objet</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>16</id>
+            <image src="https://archives.bulbagarden.net/media/upload/a/aa/Dream_Sitrus_Berry_Sprite.png"></image>
+            <contenu>Quel objet permet de soigner les Pokémon pendant un combat ?</contenu>
+            <reponse1>Baie Sitrus</reponse1>
+            <reponse2>Pierre Plante</reponse2>
+            <reponse3>Baie Prine</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Evolution</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>17</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/e/e1/0197Umbreon.png/revision/latest?cb=20240716165617"></image>
+            <contenu>Quel objet est utilisé pour faire évoluer un Évoli en Noctali ?</contenu>
+            <reponse1>Pierre Eau</reponse1>
+            <reponse2>Pierre Nuit</reponse2>
+            <reponse3>Aucun objet, évolution par bonheur la nuit</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Objet</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>18</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/1/1d/Type_Dragon_HOME.png/revision/latest/scale-to-width-down/1000?cb=20220611134549"></image>
+            <contenu>Quel objet augmente la puissance des attaques de type Dragon ?</contenu>
+            <reponse1>Orbe Draco</reponse1>
+            <reponse2>Lunette Choix</reponse2>
+            <reponse3>Croc Dragon</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Objet</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>19</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/4/45/Great_Ball.png/revision/latest?cb=20240611003335"></image>
+            <contenu>Quel objet permet de capturer plus facilement les Pokémon ?</contenu>
+            <reponse1>Super Ball</reponse1>
+            <reponse2>Baie Framby</reponse2>
+            <reponse3>CT</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Objet</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>20</id>
+            <image src="https://www.pokepedia.fr/images/d/d7/Miniature_Restes_LPZA.png?20251015154749"></image>
+            <contenu>Quel objet tient un Pokémon pour se soigner automatiquement en combat ?</contenu>
+            <reponse1>Restes</reponse1>
+            <reponse2>Baie Nanab</reponse2>
+            <reponse3>Peau Métal</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+    </set>
+    <set id="3">
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>21</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/f/f6/Gary_Oak_anime_Journeys.png/revision/latest?cb=20211001055536"></image>
+            <contenu>Qui est le rival du personnage principal dans Pokémon Rouge/Bleu ?</contenu>
+            <reponse1>Pierre</reponse1>
+            <reponse2>Régis</reponse2>
+            <reponse3>Sacha</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>22</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/9/90/0252Treecko.png/revision/latest?cb=20240718130419"></image>
+            <contenu>Quel Pokémon est le starter de type Plante dans la région de Hoenn ?</contenu>
+            <reponse1>Germignon</reponse1>
+            <reponse2>Arcko</reponse2>
+            <reponse3>Tiplouf</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>23</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/2/21/0146Moltres.png/revision/latest?cb=20240818032317"></image>
+            <contenu>Quel est le nom du Pokémon légendaire de type Feu de la première génération ?</contenu>
+            <reponse1>Sulfura</reponse1>
+            <reponse2>Entei</reponse2>
+            <reponse3>Ho-Oh</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>24</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/2/25/Misty_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.png/revision/latest?cb=20181120184447"></image>
+            <contenu>Quel est le nom du champion d’arène de type Eau à Kanto ?</contenu>
+            <reponse1>Ondine</reponse1>
+            <reponse2>Erika</reponse2>
+            <reponse3>Misty</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>25</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/7/73/0018Pidgeot.png/revision/latest/scale-to-width-down/1000?cb=20240714160827"></image>
+            <contenu>Quel Pokémon possède la capacité spéciale "Intimidation" ?</contenu>
+            <reponse1>Mackogneur</reponse1>
+            <reponse2>Roucarnage</reponse2>
+            <reponse3>Caninos</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>26</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/4/4a/0025Pikachu.png/revision/latest?cb=20250716011027"></image>
+            <contenu>Quel est le type principal de Pikachu ?</contenu>
+            <reponse1>Électrique</reponse1>
+            <reponse2>Normal</reponse2>
+            <reponse3>Vol</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>General</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>27</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/f/fb/0001Bulbasaur.png/revision/latest?cb=20240903144321"></image>
+            <contenu>Quel Pokémon est connu comme étant le premier de la Pokédex national ?</contenu>
+            <reponse1>Bulbizarre</reponse1>
+            <reponse2>Pikachu</reponse2>
+            <reponse3>Salamèche</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>General</thematique>
+            <difficulte>Advanced</difficulte>
+            <id>28</id>
+            <image src="https://keytwo.be/img/cms/Articles/Jouer%20aux%20cartes%20Pok%C3%A9mon/combien-de-pokemon-a-travers-les-generations-keytwo.jpg"></image>
+            <contenu>Combien de Pokémon y a-t-il de nos jours?</contenu>
+            <reponse1>512</reponse1>
+            <reponse2>151</reponse2>
+            <reponse3>1025</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>5</point>
+        </question>
+        <question>
+            <thematique>General</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>29</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/4/44/Team_Rocket_Grunts_HeartGold_and_SoulSilver.png/revision/latest/scale-to-width-down/1000?cb=20240818124823"></image>
+            <contenu>Quel est le principal antagoniste dans la plupart des jeux Pokémon ?</contenu>
+            <reponse1>La Team Rocket</reponse1>
+            <reponse2>Les champions d’arène</reponse2>
+            <reponse3>Les Professeurs Pokémon</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Objet</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>30</id>
+            <image src="https://www.pokepedia.fr/images/9/9d/CT-RV.png"></image>
+            <contenu>Quel est l’objet utilisé pour enregistrer une attaque dans les jeux ?</contenu>
+            <reponse1>CT (Capsule Technique)</reponse1>
+            <reponse2>CS (Capsule Secrète)</reponse2>
+            <reponse3>Pierre Evolution</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+    </set>
+    <set id="4">
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>31</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/d/db/0101Electrode.png/revision/latest?cb=20240724202656"></image>
+            <contenu>Quel Pokémon est le plus rapide de la première génération ?</contenu>
+            <reponse1>Electrode</reponse1>
+            <reponse2>Ninjask</reponse2>
+            <reponse3>Joliflor</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Lieu</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>32</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/f/fe/Johto_HGSS.png/revision/latest?cb=20110213010249"></image>
+            <contenu>Dans quelle région trouve-t-on le Pokémon Lugia ?</contenu>
+            <reponse1>Johto</reponse1>
+            <reponse2>Hoenn</reponse2>
+            <reponse3>Sinnoh</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Nom</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>33</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/0/06/0037Vulpix.png/revision/latest?cb=20240714171153"></image>
+            <contenu>Quel Pokémon est surnommé "Le Pokémon renard" ?</contenu>
+            <reponse1>Goupix</reponse1>
+            <reponse2>Évoli</reponse2>
+            <reponse3>Feunard</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Lieu</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>34</id>
+            <image src="https://www.pokepedia.fr/images/a/a8/Jadielle_LGPE.png"></image>
+            <contenu>Quel est le nom de l’arène spécialisée dans le type Combat ?</contenu>
+            <reponse1>Jadielle</reponse1>
+            <reponse2>Azuria</reponse2>
+            <reponse3>Céladopole</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Lieu</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>35</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/1/18/0480Uxie.png/revision/latest?cb=20240720151402"></image>
+            <contenu>Quel Pokémon légendaire est gardien des lacs dans la région de Sinnoh ?</contenu>
+            <reponse1>Dialga</reponse1>
+            <reponse2>Uxie</reponse2>
+            <reponse3>Palkia</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Evolution</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>36</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/1/1c/0149Dragonite.png/revision/latest?cb=20240715235218"></image>
+            <contenu>Quel Pokémon évolue en Dracolosse ?</contenu>
+            <reponse1>Dratini</reponse1>
+            <reponse2>Dragonair</reponse2>
+            <reponse3>Salamèche</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Evolution</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>37</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/d/d0/0700Sylveon.png/revision/latest?cb=20250203162317"></image>
+            <contenu>En évoluant, quel Pokémon devient Nymphali ?</contenu>
+            <reponse1>Évoli</reponse1>
+            <reponse2>Goupix</reponse2>
+            <reponse3>Mélofée</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Evolution</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>38</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/7/7f/0111Rhyhorn.png/revision/latest?cb=20240715183648"></image>
+            <contenu>Quel objet est nécessaire pour faire évoluer Rhinocorne en Rhinoféros ?</contenu>
+            <reponse1>Pierre Plante</reponse1>
+            <reponse2>Aucun objet, évolution par niveau</reponse2>
+            <reponse3>Pierre Lune</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Evolution</thematique>
+            <difficulte>Advanced</difficulte>
+            <id>39</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/7/75/0214Heracross.png/revision/latest/scale-to-width-down/1000?cb=20240716193137"></image>
+            <contenu>Quelle évolution nécessite un échange avec un objet tenu ?</contenu>
+            <reponse1>Mackogneur</reponse1>
+            <reponse2>Scarhino</reponse2>
+            <reponse3>Scarabrute</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>5</point>
+        </question>
+        <question>
+            <thematique>Evolution</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>40</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/a/a0/Waterstone.png/revision/latest?cb=20101117214948"></image>
+            <contenu>Quel Pokémon évolue grâce à une pierre Eau ?</contenu>
+            <reponse1>Pyroli</reponse1>
+            <reponse2>Aquali</reponse2>
+            <reponse3>Stari</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>2</point>
+        </question>
+    </set>
+    <set id="5">
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>41</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/f/f7/Type_Water_HOME.png/revision/latest?cb=20220611142546"></image>
+            <contenu>Quel type est faible face au type Eau ?</contenu>
+            <reponse1>Feu</reponse1>
+            <reponse2>Roche</reponse2>
+            <reponse3>Électrique</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>42</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/1/10/Type_Ground_HOME.png/revision/latest/scale-to-width-down/1000?cb=20220611141828"></image>
+            <contenu>Quel type est immunisé aux attaques de type Sol ?</contenu>
+            <reponse1>Vol</reponse1>
+            <reponse2>Eau</reponse2>
+            <reponse3>Spectre</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>43</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/e/ed/Type_Psychic_HOME.png/revision/latest/scale-to-width-down/1000?cb=20220611142444"></image>
+            <contenu>Quel type est super efficace contre les Pokémon de type Psy ?</contenu>
+            <reponse1>Combat</reponse1>
+            <reponse2>Plante</reponse2>
+            <reponse3>Insecte</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>44</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/e/e4/Type_Fairy_HOME.png/revision/latest/scale-to-width-down/1000?cb=20220611135413"></image>
+            <contenu>Quel type est résistant aux attaques de type Fée ?</contenu>
+            <reponse1>Acier</reponse1>
+            <reponse2>Feu</reponse2>
+            <reponse3>Spectre</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>Type</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>45</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/f/f7/Type_Water_HOME.png/revision/latest?cb=20220611142546"></image>
+            <contenu>Quel type de Pokémon est le plus répandu dans la première génération ?</contenu>
+            <reponse1>Normal</reponse1>
+            <reponse2>Eau</reponse2>
+            <reponse3>Plante</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Lieu</thematique>
+            <difficulte>Beginner</difficulte>
+            <id>46</id>
+            <image src="https://www.pokepedia.fr/images/1/13/Carmin_sur_Mer_LGPE.png?20210521192541"></image>
+            <contenu>Quelle ville abrite le célèbre Laboratoire Pokémon à Kanto ?</contenu>
+            <reponse1>Argenta</reponse1>
+            <reponse2>Carmin-sur-Mer</reponse2>
+            <reponse3>Lavanville</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>2</point>
+        </question>
+        <question>
+            <thematique>Lieu</thematique>
+            <difficulte>Intermediate</difficulte>
+            <id>47</id>
+            <image src="https://www.pokepedia.fr/images/8/80/Parmanie_LGPE.png?20210521192636"></image>
+            <contenu>Dans quelle ville se trouve l’arène de type Electrique à Kanto ?</contenu>
+            <reponse1>Doublonville</reponse1>
+            <reponse2>Parmanie</reponse2>
+            <reponse3>Celadopole</reponse3>
+            <bonne_reponse>2</bonne_reponse>
+            <point>3</point>
+        </question>
+        <question>
+            <thematique>General</thematique>
+            <difficulte>Advanced</difficulte>
+            <id>48</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/8/89/0150Mewtwo.png/revision/latest/scale-to-width-down/1000?cb=20240715235232"></image>
+            <contenu>Quelle est la capacité signature de Mewtwo ?</contenu>
+            <reponse1>Choc Mental</reponse1>
+            <reponse2>Psychic</reponse2>
+            <reponse3>Frappe Psy</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>5</point>
+        </question>
+        <question>
+            <thematique>General</thematique>
+            <difficulte>Advanced</difficulte>
+            <id>49</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/9/9a/0151Mew.png/revision/latest?cb=20240715235903"></image>
+            <contenu>Quel Pokémon a été créé en premier, selon la chronologie de développement ?</contenu>
+            <reponse1>Mew</reponse1>
+            <reponse2>Mewtwo</reponse2>
+            <reponse3>Bulbizarre</reponse3>
+            <bonne_reponse>1</bonne_reponse>
+            <point>5</point>
+        </question>
+        <question>
+            <thematique>General</thematique>
+            <difficulte>Advanced</difficulte>
+            <id>50</id>
+            <image src="https://static.wikia.nocookie.net/pokemon/images/f/fb/Fire_Blast_PE.png/revision/latest?cb=20190217133405"></image>
+            <contenu>Quelle capacité permet à un Pokémon de frapper plusieurs ennemis en même temps ?</contenu>
+            <reponse1>Éclate-Roc</reponse1>
+            <reponse2>Tonnerre</reponse2>
+            <reponse3>Déflagration</reponse3>
+            <bonne_reponse>3</bonne_reponse>
+            <point>5</point>
+        </question>
+    </set>
+</data>
