@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="description" content="Projet.Mandalore">
+        <meta name="author" content="ERASTE Georgia">
+        <meta name="keywords" content="Projet, L1 ISI, Brest">
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+        <script src="script/22400857.js"></script>
+        <title>Projet.Mandalore</title>
+        <!--certains (beaucoup de) liens dirigent vers des sites en Anglais, car une version Française n'existe pas ou est incomplète.-->
+    </head>
+    <body>
+        <div id="entete">
+            <img id="logo" src="img/mandalore-planete.jpeg" alt="La planète Mandalore" width = 15%>
+            <h4>Mandalore</h4>
+        </div>
+        <div id="navigation">
+            <ul>
+                <li><a href="index.html">Présentation</a></li>
+                <li><a href="page/histoire.html">La biodiversité: Une histoire de guerres</a></li>
+                <li><a href="page/DNJ.html">La planète de nos jours</a></li>
+                <li><a href="page/formulaire.html">Voulez-vous aider à la reconstruction?</a></li>
+            </ul>
+        </div>
+        <div id="sousnavigation">
+            <hr>
+        </div>
+        <div id="corps">
+            <h1>Mandalore: Le monde des guerriers destructeurs</h1>
+            <div id="info_base">
+                <p>Mandalore est une planète de la Bordure Extérieure de la Galaxy. Elle est le monde d'origine des Mandaloriens, un peuple guerrier et téméraire qui affronta les Jedi pendant de nombreuses années, notamment durant l'ère de l'Ancienne République.
+                    Des années de guerre lessèrent la planète inhospitalière, forçant les Mandaloriens à vivre au sein de villes protégées par des dômes.
+                </p>
+                <h5>Population: Pacifistes vs. Guerriers</h5>
+                <p>Calculez ici le nombre de Mandaloriens qui suivent encore la Voie (les Mando'ad'e) et ceux qui suivent la République (les Evaar'ad'e).</p>
+                <p>
+                    Population : <input type="population" id="popTotale" value="45"/>
+                </p>
+                <p>
+                    Nombre de Mando'ad'e : <input type="text" id="resultOldMando" readonly>
+                </p>
+                <p>
+                    Nombre de Evaar'ad'e : <input type="text" id="resultNewMando" readonly>
+                </p>
+                <p>
+                    <input type="button" id="btnCalc" onclick="calculerPopulation()" value="Calculer">
+                </p>
+            </div>
+            <div id="souscorps">
+                <hr>
+            </div>
+            <div id="info_planete">
+                <h4>Caractéristiques Telluriques</h4>
+                <table border="1">
+                    <tr>
+                        <td>Région</td>
+                        <td>Territoire de la Bordure Extérieure</td>
+                    </tr>
+                    <tr>
+                        <td>Secteur</td>
+                        <td>Mandalore</td>
+                    </tr>
+                    <tr>
+                        <td>Période de révolution</td>
+                        <td>366 jours</td>
+                    </tr>
+                    <tr>
+                        <td>Durée de rotation</td>
+                        <td>19 h</td>
+                    </tr>
+                    <tr>
+                        <td>Atmosphère</td>
+                        <td>Respirable</td>
+                    </tr>
+                    <tr>
+                        <td>Climat</td>
+                        <td>Inhospitalier</td>
+                    </tr>
+                    <tr>
+                        <td>Paysages</td>
+                        <td>Désert; Villes protégées par des dômes</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div id="surpied">
+            <hr>
+        </div>
+        <div id="pied">
+            <p>pour plus d'infos sur la culture Mandalorienne, voir: <a href="https://hiscyarika.tumblr.com/post/190254017285/the-mandalorians-people-and-culture" target="_blank">Mandalorian Culture</a>
+        </div>
+    </body>
+</html> 

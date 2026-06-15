@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="description" content="Projet.Mandalore">
+        <meta name="author" content="ERASTE Georgia">
+        <meta name="keywords" content="Projet, L1 ISI, Brest">
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="../css/style.css" type="text/css"/>
+        <script src="../script/22400857.js"></script>
+        <title>Projet.Mandalore - La Planète De Nos Jours</title>
+    </head>
+    <body onload="displaySlide()">
+        <div id="entete">
+            <img id= "logo3" src="../img/mandalore-ville-detruite.jpeg" alt="Une cité sous dôme, détruite au début de l'ère Impériale." width = 25%>
+            <h4>Sundari, capitale de Mandalore</h4>
+        </div>
+        <div id="navigation">
+            <ul>
+                <li><a href="../index.html">Présentation</a></li>
+                <li><a href="histoire.html">La biodiversité: Une histoire de guerres</a></li>
+                <li><a href="DNJ.html">La planète de nos jours</a></li>
+                <li><a href="formulaire.html">Voulez-vous aider à la reconstruction?</a></li>
+            </ul>
+        </div>
+        <div id="sousnavigation">
+            <hr>
+        </div>
+        <div id="corps">
+        <h1>La planète de nos jours</h1>
+            <div id="info">
+                <p>Après la destruction partielle de Mandalalore par les Jedi, les Mandaloriens durent se réfugier dans des cité dômes afin d'éviter le nouveau climat inhospitalier de leur planète.
+                    Toute la biodiversité qui y a existé, telle que les <a href="https://starwars.fandom.com/wiki/Shatual" target="_blank">Shatuals</a>, une espèce herbivore, ou les 
+                    <a href="https://starwars.fandom.com/wiki/Galek_(tree)" target="_blank">arbres galeks</a>, furent détruits, perdus à jamais. Cette déstruction presque sommaire de la planète eu aussi un grand impact 
+                    au niveau culturel.
+                </p>
+                <p>Puis vint l'ère impériale, et avec elle le refus des Mandaloriens de plier le genou et de vendre leur beskar. Cela conduisit à une invasion de Mandalore et à la destruction complète du peu 
+                    qui restait de la surface de la planète.</p>
+            </div>
+            <br>
+            <div id="xWing">
+                <img id="imgVaisseau" src="../img/x-wing.jpeg" alt="Vaisseau X-Wing" width=15% onmouseover="mvtVaisseau()" />
+            </div>
+            <br>
+            <div class="slideshow">
+
+                <div class="slides">
+                    <img src="../img/mandalore-bombardee.jpeg" alt="Image de Mandalore durant le bombardement par l'Empire" style="width:100%">
+                </div>
+        
+                <div class="slides">
+                    <img src="../img/sundari-detruite.jpeg" alt="Image de Mandalore après les bombardements par les Jedi" style="width:100%">
+                </div>
+        
+                <div class="slides">
+                    <img src="../img/mandalore-apres-bombardement.jpeg" alt="Image de Mandalore après l'Empire" style="width:100%">
+                </div>
+        
+                <br>
+                <div id="controls">
+                    <input type="button" onclick="nextSlide(-1)" value="Previous">
+                    <input type="button" onclick="showImage(0)" value="Image 1"/>
+                    <input type="button" onclick="showImage(1)" value="Image 2"/>
+                    <input type="button" onclick="showImage(2)" value="Image 3"/>
+                    <input type="button" onclick="nextSlide(1)" value="Next">
+                    </div>
+            </div>
+        </div>
+    </body>
+</html> 

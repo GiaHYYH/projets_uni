@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="description" content="Projet.Mandalore">
+        <meta name="author" content="ERASTE Georgia">
+        <meta name="keywords" content="Projet, L1 ISI, Brest">
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="../css/style.css" type="text/css">
+        <script src="../script/22400857.js" defer></script>
+        <title>Projet.Mandalore - Une Histoire Brève</title>
+    </head>
+    <body>
+        <div id="entete">
+            <h4>Voulez-vous participer à l'effort de reconstruction de Mandalore?</h4>
+        </div>
+        <div id="navigation">
+            <ul>
+                <li><a href="../index.html">Présentation</a></li>
+                <li><a href="histoire.html">La biodiversité: Une histoire de guerres</a></li>
+                <li><a href="DNJ.html">La planète de nos jours</a></li>
+                <li><a href="formulaire.html">Voulez-vous aider à la reconstruction?</a></li>
+            </ul>
+        </div>
+        <div id="sousnavigation">
+            <hr>
+        </div>
+        <div id="corps">
+            <h1>Veuillez vous inscrire ci-dessous:</h1>
+            <form id="volontaire">
+                <table>
+                    <tr>
+                        <td><span class="leftcol">Nom : </span></td>
+                        <td><input type="text" id="txtNom" size="30"/></td>
+                    </tr>
+                    <tr>
+                        <td><span class="leftcol">Clan auquel vous êtes affiliés :</span></td>
+                        <td><input type="text" id="txtClan" size="30" placeholder="ie. Vizsla, Ordo, Vhett, etc."/></td>
+                    </tr>
+                    <tr>
+                        <td><span class="leftcol">Compétences :</span></td>
+                        <td style="display: flex; justify-content: stretch; align-items: flex-start; width: 220px;">
+                            <span><input type="checkbox" id="cbCombat" name="skills" value="Combat" />Combat</span>
+                        </td>
+                        <td style="display: flex; justify-content: stretch; align-items: flex-start; width: 220px;">
+                            <span><input type="checkbox" id="cbInge" name="skills" value="Ingenierie" />Ingénierie</span>
+                        </td>
+                        <td style="display: flex; justify-content: stretch; align-items: flex-start; width: 220px;">
+                            <span><input type="checkbox" id="cbDiplo" name="skills" value="Diplomatie" />Diplomatie</span>
+                        </td>
+                        <td style="display: flex; justify-content: stretch; align-items: flex-start; width: 220px;">
+                            <span><input type="checkbox" id="cbSoins" name="skills" value="Soins Médicaux" />Soins Médicaux</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><span class="leftcol">Pourquoi voulez-vous aider Mandalore?</span></td>
+                        <td><input type="text" id="txtCause" size="50"/></td>
+                    </tr>
+                    <tr>
+                        <td><span class="leftcol">Jurez-vous, sur votre nom et sur le nom de vos ancêtres, de protéger et de défendre Mandalore?</span></td>
+                        <td><input type="radio" id="serment" name="serment" value="Oui" />Je le jure.</td>
+                    </tr>
+                    <tr>
+                        <td> </td>
+                        <td>
+                            <input type="button" id="btnSubmit" value="Soumettre" onclick="validateData()" />
+                            <input type="button" id="btnClear" value="Clear" onclick="clearForm()" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </body>
+</html> 

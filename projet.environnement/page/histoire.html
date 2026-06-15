@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="description" content="Projet.Mandalore">
+        <meta name="author" content="ERASTE Georgia">
+        <meta name="keywords" content="Projet, L1 ISI, Brest">
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="../css/style.css" type="text/css">
+        <script src="../script/22400857.js" defer></script>
+        <title>Projet.Mandalore - Une Histoire Brève</title>
+    </head>
+    <body onload="displaySlide()">
+        <div id="entete">
+            <img id="logo2" src="../img/mandalore-initiation.jpeg" alt="Le paysage actuel de mandalore" width = 35% height = 35%>
+            <h4>Rituel d'initiation d'un groupe de Mandaloriens.</h4>
+        </div>
+        <div id="navigation">
+            <ul>
+                <li><a href="../index.html">Présentation</a></li>
+                <li><a href="histoire.html">La biodiversité: Une histoire de guerres</a></li>
+                <li><a href="DNJ.html">La planète de nos jours</a></li>
+                <li><a href="formulaire.html">Voulez-vous aider à la reconstruction?</a></li>
+            </ul>
+        </div>
+        <div id="sousnavigation">
+            <hr>
+        </div>
+        <div id="corps">
+            <h1>La biodiversité de Mandalore: Le résultat des guerres</h1>
+            <div id="info">
+                <p>Mandalore était autrefois un monde luxuriant et sauvage, dévouée d'être sensibles, où les formes de vie dominantes étaient les mythosaures gigantesques. 
+                    Tout a changé avec l'arrivée des <a href="https://starwars.fandom.com/wiki/Taung/Legends?so=search" target="_blank">Taung</a>. Forcés de quitter la planète Coruscant dans les Mondes du Noyaux bien 
+                    avant la fondation de la République Galactique par les bataillons humains de Zhell, les Taung ont fui vers Roon, avant d'arriver sur le monde de la Bordure Extérieure qu'ils ont appelé Mandalore 
+                    vers 7000 BBY. En l'honneur de leur chef, Mandalore le Premier, les Taungs ont nommé ce monde Manda'yaim, ou « la maison du Mand'alor », qui a ensuite été transformé en Mandalore dans la 
+                    langue Galactic Basic Standard. De même, les Taungs se sont rebaptisés Mandaloriens, ou Mando'ade: « fils et filles de Mandalore ». Les Mandaloriens nouvellement baptisés se sont mis à apprivoiser 
+                    leur nouveau monde et, ce faisant, ont massacré les énormes mythosaures, ne laissant derrière eux que leurs squelettes. 
+                    Ironiquement, quelques siècles plus tard, les Taungs eux-mêmes suuffrèrent du même sort, ne laissant derrière eux qu'une histoire et une culture.</p>
+                <p>Dans les années qui suivirent la défaite de la <a href="https://starwars.fandom.com/wiki/Brotherhood_of_the_Sith" target="_blank">Confrérie des Ténèbres</a> par la République Galactique à Ruusan, 
+                    et la réforme ultérieure de la République qui marqua la fin des <a href="https://starwars.fandom.com/wiki/New_Sith_Wars" target="_blank">Nouvelles Guerres Sith</a>, les Mandaloriens de Mandalore s'efforcèrent de se remodeler en une société plus experte 
+                    technologiquement et plus rigide et militante. La montée du militantisme de Mandalore si peu de temps après la guerre dévastatrice contre les Sith alarma à la fois la République et 
+                    ses protecteurs Jedi, et alors que plusieurs chefs de clan exhortèrent Mandalore à faire la paix et à rejoindre la République, ils furent sommairement étouffés. Ne voulant pas subir une 
+                    seconde guerre avec les Mandaloriens, en 738 BBY, les Jedi menèrent une force de frappe de la République dans un conflit bref et écrasant connu sous le nom 
+                    d'Excision Mandalorienne qui dévasta le secteur de Mandalore et transforma certaines parties de Mandalore en déserts inhospitaliers de sable blanc.</p>
+            </div>
+            <h4>Evolution du paysage de Mandalore</h4>
+            <div class="slideshow">
+
+                <div class="slides">
+                    <img src="../img/mandalore-avant.jpeg" alt="Image de ce à quoi ressemblait Mandalore en ces débuts" style="width:100%">
+                </div>
+        
+                <div class="slides">
+                    <img src="../img/mandalore-paysage.jpeg" alt="Image de Mandalore après les bombardements par les Jedi" style="width:100%">
+                </div>
+        
+                <div class="slides">
+                    <img src="../img/mandalore-apres-bombardement.jpeg" alt="Image de Mandalore après l'Empire" style="width:100%">
+                </div>
+        
+                <br>
+                <div id="controls">
+                    <input type="image" src="../img/previous.svg" onclick="nextSlide(-1)" value="Previous" width="5%">
+                    <input type="image" src="../img/mandalore-avant.jpeg" onclick="showImage(0)" width="10%"/>
+                    <input type="image" src="../img/mandalore-paysage.jpeg" onclick="showImage(1)" width="10%"/>
+                    <input type="image" src="../img/mandalore-apres-bombardement.jpeg" onclick="showImage(2)" width="10%"/>
+                    <input type="image" src="../img/next.svg" onclick="nextSlide(1)" value="Next" width="5%">
+                    </div>
+            </div>
+        </div>
+    </body>
+</html> 
