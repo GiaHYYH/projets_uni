@@ -2,7 +2,7 @@
  <!-- Site web pour projet Sellection en lien avec la marchandise du groupe de K-Pop BTS. -->
 
 <?php
-    $mysqli = new mysqli('localhost','e22400857sql','tJympCEx','e22400857_db1');
+    $mysqli = new mysqli('localhost','exxxxxxxxsql','[REDACTED]','exxxxxxxx_db1');
     
     if ($mysqli->connect_errno) {
         // Affichage d'un message d'erreur
