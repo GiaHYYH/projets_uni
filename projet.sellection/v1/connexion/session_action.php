@@ -13,7 +13,7 @@
       $id=htmlspecialchars(addslashes($_POST['pseudo']));
       $motdepasse=htmlspecialchars(addslashes($_POST['mdp']));
 
-        $mysqli = new mysqli('localhost','e22400857sql','tJympCEx','e22400857_db1');
+        $mysqli = new mysqli('localhost','exxxxxxxxsql','[REDACTED]','exxxxxxxx_db1');
     if ($mysqli->connect_errno) {
     // Affichage d'un message d'erreur
         echo "Error: Problème de connexion à la BDD \n";
