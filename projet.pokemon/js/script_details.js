@@ -14,7 +14,7 @@ function loadXMLDoc(){
             displayQuestionById();
         }
     };
-    xmlhttp.open("GET", "https://obiwan.univ-brest.fr/~e22403362/data/bdd_GE.xml", true);
+    xmlhttp.open("GET", "https://obiwan.univ-brest.fr/~exxxxxxxx/data/bdd_GE.xml", true);
     xmlhttp.send();     
 }
 
