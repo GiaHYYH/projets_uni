@@ -4,7 +4,7 @@
 <?php
     $error_message = null;
 
-    $mysqli = new mysqli('localhost','e22400857sql','tJympCEx','e22400857_db1');
+    $mysqli = new mysqli('localhost','exxxxxxxxsql','[REDACTED]','exxxxxxxx_db1');
 
     if ($mysqli->connect_errno) {
         $error_message = "Problème de connexion à la base de données. (Errno: " . $mysqli->connect_errno . ")";
